@@ -14,7 +14,7 @@ RUN pip install --upgrade pip && \
     pip install --no-deps moshi==0.2.11 && \
     pip install sentence_transformers==5.1.0 && \
     pip install 'sphn<0.2' && \
-    pip install diffusers peft==0.17.0 matplotlib
+    pip install diffusers peft==0.17.0 matplotlib jupyter
 
 # Replace modeling_utils.py with custom version
 RUN wget -O /usr/local/lib/python3.12/dist-packages/transformers/modeling_utils.py \
