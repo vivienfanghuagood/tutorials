@@ -18,4 +18,7 @@ RUN pip install --upgrade pip && \
 
 # Replace modeling_utils.py with custom version
 RUN wget -O /usr/local/lib/python3.12/dist-packages/transformers/modeling_utils.py \
-https://gist.githubusercontent.com/vivienfanghuagood/ec4066bdffbc1bce635d1ab6e63bfd72/raw/dadfc8a36eeaf31655ef884c3e2c4d5b95c960e5/modeling_utils.py
+https://gist.githubusercontent.com/vivienfanghuagood/ec4066bdffbc1bce635d1ab6e63bfd72/raw/dadfc8a36eeaf31655ef884c3e2c4d5b95c960e5/modeling_utils.py && mkdir -p /root/.ipython/profile_default/startup
+
+COPY disable_shell.py disable_shell.py /root/.ipython/profile_default/startup
+COPY patch_diffusers.py patch_diffusers.py /root/.ipython/profile_default/startup
