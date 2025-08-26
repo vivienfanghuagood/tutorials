@@ -22,3 +22,6 @@ https://gist.githubusercontent.com/vivienfanghuagood/ec4066bdffbc1bce635d1ab6e63
 
 COPY disable_shell.py disable_shell.py /root/.ipython/profile_default/startup
 COPY patch_diffusers.py patch_diffusers.py /root/.ipython/profile_default/startup
+COPY jupyters/download.sh download.sh /app
+
+RUN cd /app && bash download.sh
