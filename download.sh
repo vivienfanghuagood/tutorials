@@ -10,4 +10,4 @@ wget https://huggingface.co/sentence-transformers/multi-qa-MiniLM-L6-cos-v1.ipyn
 wget https://huggingface.co/Qwen/Qwen2.5-VL-7B-Instruct.ipynb
 wget https://raw.githubusercontent.com/sanchit-gandhi/notebooks/main/MusicGen.ipynb
 wget https://huggingface.co/zai-org/CogVideoX1.5-5B-I2V.ipynb
-wget https://triton-lang.org/main/_downloads/034d953b6214fedce6ea03803c712b89/02-fused-softmax.ipynb
+wget https://web.archive.org/web/20240822165629/https://triton-lang.org/main/_downloads/034d953b6214fedce6ea03803c712b89/02-fused-softmax.ipynb
