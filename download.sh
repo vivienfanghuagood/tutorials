@@ -2,6 +2,7 @@ rm -rf *.ipynb
 wget https://huggingface.co/Qwen/Qwen3-Embedding-8B.ipynb
 wget https://huggingface.co/JungZoona/T3Q-qwen2.5-14b-v1.0-e3.ipynb
 # wget https://huggingface.co/openai/whisper-large-v3.ipynb
+wget https://gist.githubusercontent.com/vivienfanghuagood/ec4066bdffbc1bce635d1ab6e63bfd72/raw/f11d9ae39862243178c35dcd207a192dbc273fb1/DeepSeek-Math.ipynb
 wget https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B.ipynb
 wget https://huggingface.co/deepseek-ai/DeepSeek-R1-0528-Qwen3-8B.ipynb
 # wget https://raw.githubusercontent.com/kyutai-labs/delayed-streams-modeling/main/tts_pytorch.ipynb
