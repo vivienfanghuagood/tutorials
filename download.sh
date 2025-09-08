@@ -12,4 +12,4 @@ wget https://huggingface.co/Qwen/Qwen2.5-VL-7B-Instruct.ipynb
 wget https://raw.githubusercontent.com/sanchit-gandhi/notebooks/main/MusicGen.ipynb
 wget https://huggingface.co/zai-org/CogVideoX1.5-5B-I2V.ipynb
 wget https://web.archive.org/web/20240822165629/https://triton-lang.org/main/_downloads/034d953b6214fedce6ea03803c712b89/02-fused-softmax.ipynb
-wget https://gist.githubusercontent.com/vivienfanghuagood/ec4066bdffbc1bce635d1ab6e63bfd72/raw/1cbf8780549856903b73bec9e0c30f29d1d841ed/catalog.ipynb
+wget https://gist.githubusercontent.com/vivienfanghuagood/ec4066bdffbc1bce635d1ab6e63bfd72/raw/234d9c178f23be86460996d74135caf9ded54482/catalog.ipynb
