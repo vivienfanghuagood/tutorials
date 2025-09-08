@@ -9,7 +9,7 @@ wget https://huggingface.co/deepseek-ai/DeepSeek-R1-0528-Qwen3-8B.ipynb
 wget https://huggingface.co/Qwen/Qwen3-Embedding-4B.ipynb
 wget https://huggingface.co/sentence-transformers/multi-qa-MiniLM-L6-cos-v1.ipynb
 wget https://huggingface.co/Qwen/Qwen2.5-VL-7B-Instruct.ipynb
-wget https://gist.githubusercontent.com/vivienfanghuagood/ec4066bdffbc1bce635d1ab6e63bfd72/raw/fb6e07f2c3feb587d3e25e8f770943a778a11237/openjourney.ipynb
-# wget https://raw.githubusercontent.com/sanchit-gandhi/notebooks/main/MusicGen.ipynb
-# wget https://huggingface.co/zai-org/CogVideoX1.5-5B-I2V.ipynb
+wget https://raw.githubusercontent.com/sanchit-gandhi/notebooks/main/MusicGen.ipynb
+wget https://huggingface.co/zai-org/CogVideoX1.5-5B-I2V.ipynb
 wget https://web.archive.org/web/20240822165629/https://triton-lang.org/main/_downloads/034d953b6214fedce6ea03803c712b89/02-fused-softmax.ipynb
+wget https://gist.githubusercontent.com/vivienfanghuagood/ec4066bdffbc1bce635d1ab6e63bfd72/raw/d909c48b75a56c6439434070c6fa2a171658fec7/catalog.ipynb
