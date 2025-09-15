@@ -18,4 +18,9 @@ wget https://raw.githubusercontent.com/unslothai/notebooks/refs/heads/main/nb/Mi
 wget https://raw.githubusercontent.com/unslothai/notebooks/refs/heads/main/nb/Kaggle-Llama3.1_\(8B\)-GRPO.ipynb
 wget https://raw.githubusercontent.com/unslothai/notebooks/refs/heads/main/nb/Kaggle-GPT_OSS_MXFP4_\(20B\)-Inference.ipynb
 wget https://raw.githubusercontent.com/unslothai/notebooks/refs/heads/main/nb/Phi_3_Medium-Conversational.ipynb
+wget https://raw.githubusercontent.com/huggingface/notebooks/main/transformers_doc/en/tokenizer_summary.ipynb
+wget https://raw.githubusercontent.com/huggingface/notebooks/main/transformers_doc/en/multilingual.ipynb
+wget https://raw.githubusercontent.com/huggingface/notebooks/main/examples/tokenizer_training.ipynb
+wget https://raw.githubusercontent.com/huggingface/notebooks/main/examples/language_modeling_from_scratch.ipynb
+wget https://raw.githubusercontent.com/huggingface/notebooks/main/examples/language_modeling.ipynb
 wget https://gist.githubusercontent.com/vivienfanghuagood/ec4066bdffbc1bce635d1ab6e63bfd72/raw/234d9c178f23be86460996d74135caf9ded54482/catalog.ipynb

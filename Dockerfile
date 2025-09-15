@@ -14,7 +14,11 @@ RUN pip install --upgrade pip && \
     pip install --upgrade --force-reinstall --no-cache-dir --no-deps git+https://github.com/vivienfanghuagood/unsloth.git && \
     pip install --upgrade --force-reinstall --no-cache-dir --no-deps git+https://github.com/unslothai/unsloth-zoo.git
 
-RUN pip install trl peft transformers==4.56.1 matplotlib jupyter
+COPY requirements.txt /app/
+
+RUN cd /app && pip install -r requirements.txt
+
+# RUN pip install trl==0.22.2 peft==0.15.2 transformers==4.56.1 matplotlib jupyter
 
 # Replace modeling_utils.py with custom version
 # RUN wget -O /usr/local/lib/python3.12/dist-packages/transformers/modeling_utils.py \
@@ -24,4 +28,4 @@ COPY disable_shell.py disable_shell.py /root/.ipython/profile_default/startup/
 # COPY patch_diffusers.py patch_diffusers.py /root/.ipython/profile_default/startup/
 COPY download.sh download.sh /app/
 
-RUN cd /app && bash download.sh
+RUN cd /app  && bash download.sh && rm -rf *.csv
