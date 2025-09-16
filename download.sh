@@ -15,7 +15,7 @@ rm -rf *.ipynb
 wget https://raw.githubusercontent.com/unslothai/notebooks/refs/heads/main/nb/CodeGemma_\(7B\)-Conversational.ipynb
 wget https://raw.githubusercontent.com/unslothai/notebooks/refs/heads/main/nb/Qwen3_\(14B\).ipynb
 wget https://raw.githubusercontent.com/unslothai/notebooks/refs/heads/main/nb/Mistral_v0.3_\(7B\)-Alpaca.ipynb
-wget https://raw.githubusercontent.com/unslothai/notebooks/refs/heads/main/nb/Kaggle-Llama3.1_\(8B\)-GRPO.ipynb
+wget https://raw.githubusercontent.com/unslothai/notebooks/refs/heads/main/nb/TinyLlama_\(1.1B\)-Alpaca.ipynb
 wget https://raw.githubusercontent.com/unslothai/notebooks/refs/heads/main/nb/Kaggle-GPT_OSS_MXFP4_\(20B\)-Inference.ipynb
 wget https://raw.githubusercontent.com/unslothai/notebooks/refs/heads/main/nb/Phi_3_Medium-Conversational.ipynb
 wget https://raw.githubusercontent.com/huggingface/notebooks/main/transformers_doc/en/tokenizer_summary.ipynb
