@@ -12,7 +12,7 @@ rm -rf *.ipynb
 # wget https://raw.githubusercontent.com/sanchit-gandhi/notebooks/main/MusicGen.ipynb
 # wget https://huggingface.co/zai-org/CogVideoX1.5-5B-I2V.ipynb
 # wget https://web.archive.org/web/20240822165629/https://triton-lang.org/main/_downloads/034d953b6214fedce6ea03803c712b89/02-fused-softmax.ipynb
-wget https://raw.githubusercontent.com/unslothai/notebooks/refs/heads/main/nb/Gemma3N_\(2B\)-Inference.ipynb
+wget https://raw.githubusercontent.com/unslothai/notebooks/refs/heads/main/nb/CodeGemma_\(7B\)-Conversational.ipynb
 wget https://raw.githubusercontent.com/unslothai/notebooks/refs/heads/main/nb/Qwen3_\(14B\).ipynb
 wget https://raw.githubusercontent.com/unslothai/notebooks/refs/heads/main/nb/Mistral_v0.3_\(7B\)-Alpaca.ipynb
 wget https://raw.githubusercontent.com/unslothai/notebooks/refs/heads/main/nb/Kaggle-Llama3.1_\(8B\)-GRPO.ipynb
